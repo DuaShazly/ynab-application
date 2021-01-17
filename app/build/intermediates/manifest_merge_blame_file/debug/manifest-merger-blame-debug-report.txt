@@ -1,0 +1,146 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dua.ynabapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:6:5-66
+11-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+12-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:7:22-77
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:9:5-78
+13-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:9:22-76
+14    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+14-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:10:5-72
+14-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:10:22-69
+15    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+15-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:11:5-88
+15-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:11:22-85
+16    <uses-permission android:name="android.permission.VIBRATE" />
+16-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:12:5-65
+16-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:12:22-63
+17
+18    <!-- suppress DeprecatedClassUsageInspection -->
+19    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+19-->[androidx.biometric:biometric:1.1.0-alpha01] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\eef766388b5db48d623ecc766d8c0805\biometric-1.1.0-alpha01\AndroidManifest.xml:27:5-74
+19-->[androidx.biometric:biometric:1.1.0-alpha01] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\eef766388b5db48d623ecc766d8c0805\biometric-1.1.0-alpha01\AndroidManifest.xml:27:22-71
+20
+21    <application
+21-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:14:5-54:19
+22        android:allowBackup="true"
+22-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:15:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.5.0-alpha05] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\a0a43154bdc2508ac7ce73d633d73db3\core-1.5.0-alpha05\AndroidManifest.xml:24:18-86
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:icon="@mipmap/ic_launcher"
+26-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:16:9-43
+27        android:label="@string/app_name"
+27-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:17:9-41
+28        android:networkSecurityConfig="@xml/network_security_config"
+28-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:20:9-69
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:18:9-54
+30        android:supportsRtl="true"
+30-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:19:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.YnabApplication" >
+32-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:21:9-53
+33        <activity
+33-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:24:9-31:20
+34            android:name="com.dua.ynabapplication.ui.MainActivity"
+34-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:24:19-50
+35            android:theme="@style/AppTheme" >
+35-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:25:13-44
+36            <intent-filter>
+36-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:26:13-30:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:27:17-69
+37-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:27:25-66
+38                <action android:name="android.intent.action.CREATE_SHORTCUT" />
+38-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:28:17-80
+38-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:28:25-77
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:29:17-77
+40-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:29:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity android:name="com.dua.ynabapplication.ui.AuthActivity" >
+43-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:33:9-53:20
+43-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:34:13-44
+44            <intent-filter>
+44-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:36:13-43:29
+45                <action android:name="android.intent.action.VIEW" />
+45-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:37:17-69
+45-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:37:25-66
+46
+47                <category android:name="android.intent.category.DEFAULT" />
+47-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:38:17-76
+47-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:38:27-73
+48                <category android:name="android.intent.category.BROWSABLE" />
+48-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:39:17-78
+48-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:39:27-75
+49
+50                <data
+51                    android:host="empty"
+51-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:41:21-43
+52                    android:scheme="http" />
+52-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:42:21-42
+53            </intent-filter>
+54            <intent-filter>
+54-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:44:13-52:29
+55                <action android:name="android.intent.action.VIEW" />
+55-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:37:17-69
+55-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:37:25-66
+56
+57                <category android:name="android.intent.category.DEFAULT" />
+57-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:38:17-76
+57-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:38:27-73
+58                <category android:name="android.intent.category.BROWSABLE" />
+58-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:39:17-78
+58-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:39:27-75
+59
+60                <data
+61                    android:host="api.youneedabudget.com"
+61-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:41:21-43
+62                    android:pathPrefix="/oauth2-redirect.html"
+62-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:50:21-63
+63                    android:scheme="https" />
+63-->C:\Users\dell\AndroidStudioProjects\YnabApplication\app\src\main\AndroidManifest.xml:42:21-42
+64            </intent-filter>
+65        </activity>
+66
+67        <provider
+67-->[com.mikepenz:iconics-core:5.0.3] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\cb725f6f54bae96d888f282c6f3295f0\jetified-iconics-core-5.0.3\AndroidManifest.xml:27:9-32:39
+68            android:name="com.mikepenz.iconics.IconicsContentProvider"
+68-->[com.mikepenz:iconics-core:5.0.3] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\cb725f6f54bae96d888f282c6f3295f0\jetified-iconics-core-5.0.3\AndroidManifest.xml:28:13-71
+69            android:authorities="com.dua.ynabapplication.iconics.core.provider"
+69-->[com.mikepenz:iconics-core:5.0.3] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\cb725f6f54bae96d888f282c6f3295f0\jetified-iconics-core-5.0.3\AndroidManifest.xml:29:13-73
+70            android:enabled="@bool/is_iconics_content_provider_enabled"
+70-->[com.mikepenz:iconics-core:5.0.3] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\cb725f6f54bae96d888f282c6f3295f0\jetified-iconics-core-5.0.3\AndroidManifest.xml:30:13-72
+71            android:exported="false"
+71-->[com.mikepenz:iconics-core:5.0.3] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\cb725f6f54bae96d888f282c6f3295f0\jetified-iconics-core-5.0.3\AndroidManifest.xml:31:13-37
+72            android:initOrder="100" />
+72-->[com.mikepenz:iconics-core:5.0.3] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\cb725f6f54bae96d888f282c6f3295f0\jetified-iconics-core-5.0.3\AndroidManifest.xml:32:13-36
+73
+74        <service
+74-->[androidx.room:room-runtime:2.2.6] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\e45736c182985838915ec78f019f966f\room-runtime-2.2.6\AndroidManifest.xml:25:9-28:40
+75            android:name="androidx.room.MultiInstanceInvalidationService"
+75-->[androidx.room:room-runtime:2.2.6] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\e45736c182985838915ec78f019f966f\room-runtime-2.2.6\AndroidManifest.xml:26:13-74
+76            android:directBootAware="true"
+76-->[androidx.room:room-runtime:2.2.6] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\e45736c182985838915ec78f019f966f\room-runtime-2.2.6\AndroidManifest.xml:27:13-43
+77            android:exported="false" />
+77-->[androidx.room:room-runtime:2.2.6] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\e45736c182985838915ec78f019f966f\room-runtime-2.2.6\AndroidManifest.xml:28:13-37
+78    </application>
+79
+80</manifest>

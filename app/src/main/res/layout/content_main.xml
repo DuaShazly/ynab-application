@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".ui.AuthActivity">
+
+    <TextView
+
+        android:id="@+id/toolbar_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:textSize="16sp"
+        android:textColor="#00008b"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginRight="20dp"
+        android:text="@string/auth"/>
+
+<EditText
+
+    android:id="@+id/url_edittext"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/toolbar_login"
+    android:layout_marginStart="20dp"
+    android:layout_marginTop="60dp"
+    android:drawablePadding="10dp"
+    android:hint="@string/url"
+    android:inputType="text"
+    android:paddingBottom="20dp"
+    android:layout_marginEnd="20dp">
+
+
+</EditText>
+
+
+<EditText
+
+    android:id="@+id/access_edittext"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/url_edittext"
+    android:layout_marginLeft="20dp"
+    android:layout_marginTop="11dp"
+    android:layout_marginRight="20dp"
+
+    android:drawablePadding="10dp"
+    android:paddingBottom="20dp"
+    android:hint="@string/personal_access_token"
+    android:inputType="text|textMultiLine" />
+
+
+
+<Button
+
+    android:id="@+id/login_button"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:layout_below="@+id/access_edittext"
+    android:layout_marginTop="30dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:text="@string/sign_in"
+    android:textColor="#FFFFFF"
+    android:textSize="20sp"
+    android:textAllCaps="false"
+    android:background="#00008b"
+    android:enabled="false"/>
+
+<!--<RadioButton-->
+
+<!--    android:id="@+id/remember_password"-->
+<!--    android:layout_width="wrap_content"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:layout_below="@+id/login_button"-->
+<!--    android:layout_marginTop="40dp"-->
+<!--    android:layout_marginLeft="20dp"-->
+<!--    android:layout_marginRight="20dp"-->
+<!--    android:text="Remember Password"-->
+<!--    android:textSize="12dp"-->
+<!--    android:checked="false"/>-->
+
+
+</RelativeLayout>

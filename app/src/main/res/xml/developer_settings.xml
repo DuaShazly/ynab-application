@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <EditTextPreference
+        app:title="Worker Delay"
+>
+    </EditTextPreference>
+
+    <CheckBoxPreference
+
+        app:title="Battery"
+        />
+
+    <CheckBoxPreference
+
+        app:title="Charging"
+/>
+
+<!--    <ListPreference-->
+
+<!--        app:entryValues="@array/networkType_values"-->
+<!--        app:title="Network Constraints"-->
+<!-- />-->
+
+</PreferenceScreen>

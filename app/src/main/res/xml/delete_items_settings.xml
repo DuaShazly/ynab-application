@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        
+        app:title="@string/financial_control" />
+
+    <Preference
+        app:title="@string/delete_all_budgets">
+    </Preference>
+
+    <Preference
+app:title="@string/delete_all_bills">
+    </Preference>
+
+    <Preference
+        app:title="@string/delete_all_piggy_bank">
+    </Preference>
+
+    <PreferenceCategory
+        
+        app:title="@string/automation" />
+
+    <Preference
+        app:title="@string/delete_all_rules">
+    </Preference>
+
+    <Preference
+        app:title="@string/delete_recurring_transactions">
+    </Preference>
+
+    <PreferenceCategory
+        
+        app:title="@string/classification" />
+
+    <Preference
+        app:title="@string/delete_all_categories">
+    </Preference>
+
+    <Preference
+        app:title="@string/delete_all_tags">
+    </Preference>
+
+    <Preference
+        app:title="@string/delete_all_object_groups">
+    </Preference>
+
+<!--    <com.dua.ynabapplication.base.BasePreferenceCategory-->
+<!--        -->
+<!--        app:title="@string/account"-->
+<!--/>-->
+
+    <Preference
+        app:title="@string/delete_all_accounts">
+    </Preference>
+
+    <Preference
+        app:title="@string/delete_asset_accounts">
+    </Preference>
+
+    <Preference
+        app:title="@string/delete_expense_accounts">
+    </Preference>
+
+    <Preference
+        app:title="@string/delete_revenue_accounts">
+    </Preference>
+
+    <Preference
+        app:title="@string/delete_liabilities_accounts">
+    </Preference>
+
+<!--    <PreferenceCategory-->
+<!--        -->
+<!--        app:title="@string/transaction" />-->
+
+
+    <Preference
+        app:title="@string/delete_all_transactions">
+    </Preference>
+
+
+    <Preference
+        app:title="@string/delete_all_withdrawals">
+    </Preference>
+
+    <Preference
+        app:title="@string/delete_all_deposits">
+    </Preference>
+
+    <Preference
+        app:title="@string/delete_all_transfers">
+    </Preference>
+
+</PreferenceScreen>

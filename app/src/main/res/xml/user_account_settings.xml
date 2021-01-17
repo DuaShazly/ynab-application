@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Preference
+
+
+        app:title="Authentication Method">
+    </Preference>
+
+    <EditTextPreference
+
+        app:title="Firefly URL">
+    </EditTextPreference>
+
+    <EditTextPreference
+
+        app:title="Access Token">
+    </EditTextPreference>
+
+    <Preference
+
+        app:title="Token expiring on">
+    </Preference>
+
+    <Preference
+
+        app:title="Refresh Token"
+>
+    </Preference>
+
+    <SwitchPreference
+
+        app:title="Refresh token in interval">
+    </SwitchPreference>
+
+    <ListPreference
+        app:title="Refresh Token Interval"
+      >
+    </ListPreference>
+
+    <EditTextPreference
+        app:title="Certificate Pinning Hash Value"
+>
+    </EditTextPreference>
+
+    <Preference
+        app:title="Logout" />
+
+</PreferenceScreen>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <CheckBoxPreference
+        app:title="Persistent Notification"
+>
+    </CheckBoxPreference>
+
+    <CheckBoxPreference
+        app:title="Toggle between 24 hour or 12 hour"
+>
+    </CheckBoxPreference>
+</PreferenceScreen>

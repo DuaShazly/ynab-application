@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_budget_list_item.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\layout\\budget_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\xml_user_settings.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\xml\\user_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\xml_developer_settings.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\xml\\developer_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\xml_bills_widget_info.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\xml\\bills_widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\xml_delete_items_settings.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\xml\\delete_items_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_auth.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\xml_user_transaction_settings.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\xml\\user_transaction_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\xml_user_account_settings.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\xml\\user_account_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\xml_authenticator.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\xml_balance_widget_info.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\xml\\balance_widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\xml_shortcuts.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\xml\\shortcuts.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_progress_overlay.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\layout\\progress_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\xml-v25_shortcuts.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\xml-v25\\shortcuts.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_budget_summary.xml.flat",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\YnabApplication\\app\\src\\main\\res\\layout\\fragment_budget_summary.xml"
+    }
+]

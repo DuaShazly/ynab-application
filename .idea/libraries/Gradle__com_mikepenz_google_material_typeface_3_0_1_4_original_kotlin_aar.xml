@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:google-material-typeface:3.0.1.4.original-kotlin@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c35732203b2cde71d58f00118a8e319/jetified-google-material-typeface-3.0.1.4.original-kotlin/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c35732203b2cde71d58f00118a8e319/jetified-google-material-typeface-3.0.1.4.original-kotlin/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c35732203b2cde71d58f00118a8e319/jetified-google-material-typeface-3.0.1.4.original-kotlin/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/google-material-typeface/3.0.1.4.original-kotlin/a0c372d14bd75f41364e2a165dd4cbc52af3bd89/google-material-typeface-3.0.1.4.original-kotlin-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/google-material-typeface/3.0.1.4.original-kotlin/eb35f679c0617bfe5dd1f69ee0421bc3c44a6096/google-material-typeface-3.0.1.4.original-kotlin-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

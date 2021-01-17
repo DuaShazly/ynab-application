@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Preference
+
+        app:title="@string/account" />
+
+<!--    <ListPreference-->
+<!--        app:entries="@array/language_string"-->
+
+<!--/>-->
+
+    <Preference
+
+        app:title="Transaction Settings" />
+
+    <CheckBoxPreference
+
+        app:title="Dark Mode" />
+
+    <CheckBoxPreference
+        app:title="Security"
+/>
+
+    <CheckBoxPreference
+        app:title="Thumbnail"/>
+
+    <Preference
+        app:title="Developer Options" />
+
+    <Preference
+        app:title="Tutorial">
+    </Preference>
+
+    <Preference
+        app:title="@string/delete_data_from_firefly">
+    </Preference>
+
+
+</PreferenceScreen>
